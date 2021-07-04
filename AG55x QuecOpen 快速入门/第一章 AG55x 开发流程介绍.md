@@ -71,7 +71,7 @@ C-V2X功能，都需要申请商业证书
 详细参考《Quectel_AG55xQ系列_QuecOpen_商用证书应用指导》
 
 
-![hadoop](https://github.com/nxf75/ML_Library/raw/master/Hadoop/Haddop%E6%A1%86%E6%9E%B6.png)
+!(https://github.com/nxf75/ML_Library/raw/master/Hadoop/Haddop%E6%A1%86%E6%9E%B6.png)
 
 # 7. 客户原理图审核
 
