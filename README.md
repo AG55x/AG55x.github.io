@@ -1,2 +1,2 @@
-# Documnent
-AG55x 技术文档
+# AG55x 技术文档
+
