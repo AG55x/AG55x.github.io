@@ -70,10 +70,8 @@ C-V2X功能，都需要申请商业证书
 
 详细参考《Quectel_AG55xQ系列_QuecOpen_商用证书应用指导》
 
-!(https://github.com/AG55x/AG55x.github.io/blob/main/Picture/chapter1_00.jpg?raw=true)
 
-**流程：移远FAE提供表格、 Secure Boot 签名工具 给客户 → 客户选择好功能+PK-HASH
-，发给移远 → 移远提出申请，并返回给客户 → 客户在SDK中安装证书，并烧录到模块里**
+![hadoop](https://github.com/nxf75/ML_Library/raw/master/Hadoop/Haddop%E6%A1%86%E6%9E%B6.png)
 
 # 7. 客户原理图审核
 
